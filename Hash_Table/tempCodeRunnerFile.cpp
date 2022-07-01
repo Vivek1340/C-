@@ -1,0 +1,1 @@
+ cout<<"Price of "<<fruit<<" is " << h.search1(fruit);
